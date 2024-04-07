@@ -1,0 +1,81 @@
+body {
+  text-align: center;
+  background-color: #ffffff;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #e3e314;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+
+
+.p {
+  background-image: url("images/pika.jpg");
+  background-size: 100%;
+}
+
+.c {
+  background-image: url("images/charmander.jpg");
+  background-size: 100%;
+}
+
+.s {
+  background-image: url("images/Squirtle.jpg");
+  background-size: 100%;
+}
+
+.b {
+  background-image: url("images/bulbasaur.jpg");
+  background-size: 100%;
+}
+
+.j {
+  background-image: url("images/jiggly.jpg");
+  background-size: 100%;
+}
+
+.t {
+  background-image: url("images/togepi.jpg");
+  background-size: 100%;
+}
+
+.l {
+  background-image: url("images/Psyduck.jpg");
+  background-size: 100%;
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.pokemon{
+  outline: none;
+  border: 5px solid #670606;
+  font-size: 1rem;
+  line-height: 2;
+  font-weight: 400;
+  color: #000000;
+  border-radius: 15px;
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  margin: 10px;
+  background-color: rgb(141, 13, 13);
+  padding: 100px 0px 0px 0px ;
+}
